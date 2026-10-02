@@ -1,0 +1,38 @@
+Project Title:
+Tilak Nagar Civic Pulse: Resident Satisfaction Analytics for Local Government Services
+
+Survey Purpose:
+This survey collects residents' opinions about basic local government services in Tilak Nagar, Mumbai.
+
+Data Collection Method:
+Responses are collected through Google Forms.
+
+Rating Scale:
+1 = Very dissatisfied
+2 = Dissatisfied
+3 = Neutral
+4 = Satisfied
+5 = Very satisfied
+
+Survey Questions:
+1. Do you agree to participate in this survey?
+2. Which locality do you live in?
+3. What is your age group?
+4. How long have you lived in this area?
+5. How satisfied are you with the regularity of water supply?
+6. How satisfied are you with garbage collection?
+7. How satisfied are you with the cleanliness of public areas?
+8. How satisfied are you with the condition of roads and footpaths?
+9. How satisfied are you with street lighting in your area?
+10. How satisfied are you with drainage and sewage services?
+11. How satisfied are you with the availability and cleanliness of public toilets?
+12. How satisfied are you with online municipal services or complaint systems?
+13. Have you ever reported a local civic problem?
+14. Overall, how satisfied are you with local government services in your area?
+15. Which local service needs the most urgent improvement, and what is your suggestion?
+
+Privacy:
+The survey should not collect names, phone numbers, exact addresses, passwords or other sensitive personal information.
+
+Current Status:
+Survey data collection is currently in progress.
