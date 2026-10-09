@@ -12,5 +12,3 @@ data/raw/*.csv
 data/processed/*clean.csv
 survey/community_activity_log.csv
 
-# VS Code settings
-.vscode/
