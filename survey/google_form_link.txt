@@ -1,0 +1,2 @@
+Paste the actual civic-survey Google Form link here.
+The CSV does not contain its form URL, so no link has been guessed.

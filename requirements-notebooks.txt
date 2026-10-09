@@ -1,0 +1,2 @@
+-r requirements.txt
+ipykernel>=6,<8

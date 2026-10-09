@@ -1,0 +1,13 @@
+# Keep environments and generated Python files out of Git.
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Keep credentials and individual response files private by default.
+.streamlit/secrets.toml
+.env
+data/raw/*.csv
+data/processed/*clean.csv
+survey/community_activity_log.csv

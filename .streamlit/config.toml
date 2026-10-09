@@ -1,0 +1,11 @@
+# Use Streamlit's built-in theme.
+[theme]
+
+# Use a light background.
+base = "light"
+
+# Use green for buttons and selected controls.
+primaryColor = "#176B63"
+
+# Use a simple readable font.
+font = "sans serif"
